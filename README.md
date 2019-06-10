@@ -1,5 +1,6 @@
-# ReactTODOApp
-here -> https://codepen.io/anon/pen/XVzvJK
+# ReactTODOApp  
+[Codepen link](https://codepen.io/anon/pen/XVzvJK)
+
 # React counter 
-here -> https://codepen.io/anon/pen/OeLVOb
+[Codepen link](https://codepen.io/anon/pen/OeLVOb)
 
